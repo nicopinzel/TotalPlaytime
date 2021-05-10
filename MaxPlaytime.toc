@@ -1,0 +1,6 @@
+## Interface: 38134
+## Title: MaxPlaytime
+## Author: nicopinzel
+## version 0.1
+
+MaxPlaytime.lua
