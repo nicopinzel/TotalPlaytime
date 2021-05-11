@@ -1,0 +1,11 @@
+## Interface: 90005 
+## X-Min Interface: 80000
+## Title: TotalPlaytime
+## Notes: Shows a message in the Addon overview.
+## Author: Nico Pinzel
+## Version: 0.0.1
+## X-Github Version: 0.0.1
+
+## SavedVariables: PlaytimeDB
+
+TotalPlaytime.lua
