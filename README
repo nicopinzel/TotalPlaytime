@@ -1,0 +1,9 @@
+The goal of this WoW AddOn is,
+to show you with just one command how much time you´ve spent in-game
+and it lists the playtime of all of your characters and
+also a total summary in the chatframe.
+
+I´ll test some more versions and I´ll let you know afterwards which versions are supported.
+Until now i can say that from [RETAIL] {7.0.3 to 9.0.5} and also [CLASSIC] {1.13} to {} are fully supported.
+
+- 3.3.5a is also working 99% but sometimes the command isn´t working.
