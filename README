@@ -5,12 +5,5 @@ to show you with just one command how much time you´ve spent in-game
 and it lists the playtime of all of your characters and
 also a total summary in the chatframe.
 
-I´ll test some more versions and I´ll let you know afterwards which versions are supported.
-Until now i can say that the versions of [RETAIL] {7.0.3 to 9.0.5} and also [CLASSIC] {1.13} to {} are fully supported.
-
-- 3.3.5a is also tested and working 99% //  sometimes the command isn´t working and i cannot clarify why
-                                            it stops it´s service under unclarified circumstances.
-  
-- 7.3.5 is also tested and working.
-
-- 4.3.4 is also tested and working.
+Compatible with all versions until 18-Sep-2024.
+Most likely also ever other update will be supported, even if i don't update the version numbers immediately
