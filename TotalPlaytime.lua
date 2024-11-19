@@ -1,4 +1,4 @@
-PlaytimeDB = PlaytimeDB or {}
+PlaytimeDB = PlaytimeDB or {} 
 local cachingPlaytime = true
 
 local addonName, addonTable = ... 
@@ -21,6 +21,9 @@ local Playtime = CreateFrame("Frame")
 Playtime:RegisterEvent("PLAYER_LOGIN")
 Playtime:RegisterEvent("PLAYER_LOGOUT")
 Playtime:RegisterEvent("TIME_PLAYED_MSG")
+print(L["TotalPlaytime wurde erfolgreich gestartet! "])
+print(L["Gib: '/spielzeit' ein, um deine Gesamtspielzeit zu sehen! "])
+print(L["Du siehst die Zeit pro Charakter und insgesamt. "])
 
 Playtime:SetScript("OnEvent", function(self, event, ...)
 return self[event] and self[event](self, ...)
@@ -89,3 +92,4 @@ end
 
 SlashCmdList["PLAYTIME"] = playtimeHandler;
 SlashCmdList["SPIELZEIT"] = spielzeitHandler;
+

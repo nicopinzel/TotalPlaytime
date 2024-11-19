@@ -1,5 +1,4 @@
-## Interface: 100207,110005,110002
-## X-Min Interface: 70300
+## Interface: 40401,110005,11505
 ## Title: TotalPlaytime
 ## Notes: Shows your total Playtime with all of your characters (except deleted ones)
 ## Author: Nico Pinzel
@@ -7,6 +6,7 @@
 ## X-Github Version: 3
 
 ## SavedVariables: PlaytimeDB
+## IconTexture: Interface\AddOns\TotalPlaytime\Icons\Logo
 
 Localization.lua
 

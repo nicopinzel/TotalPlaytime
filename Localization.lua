@@ -16,8 +16,11 @@ if LOCALE == "enUS" then
     L["Tage, "] = "Days, "
     L["Stunden, "] = "hours, "
     L["Minuten, "] = "minutes, "
-    L["Sekunden."] = "seconds."
+    L["Sekunden. "] = "seconds. "
 	L[" "] = " " -- [usSPACE, deLEERZEICHEN] for better readability in chatframe
+	L["TotalPlaytime wurde erfolgreich gestartet! "] = "TotalPlaytime was successfully initialised! "
+	L["Gib: '/spielzeit' ein, um deine Gesamtspielzeit zu sehen! "] = "Type: '/playtime' to see your overall playtime! "
+	L["Du siehst die Zeit pro Charakter und insgesamt. "] = "You'll see your playtime per character and overall. "	
 
 return end
 
