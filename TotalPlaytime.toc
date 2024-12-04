@@ -9,5 +9,4 @@
 ## IconTexture: Interface\AddOns\TotalPlaytime\Icons\Logo
 
 Localization.lua
-
 TotalPlaytime.lua
