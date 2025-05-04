@@ -1,4 +1,4 @@
-## Interface: 110005, 110007, 40401, 11505
+## Interface: 110005, 40401, 30403, 11507
 ## Title: TotalPlaytime
 ## Notes: Shows your total Playtime with all of your characters (except deleted ones)
 ## Author: Nico Pinzel
