@@ -20,11 +20,12 @@ if LOCALE == "enUS" then
     L["Stunden"] = " hours, "
     L["Minuten"] = " minutes, "
     L["Sekunden"] = " seconds. "
-	L[" "] = " " -- [usSPACE, deLEERZEICHEN] for better readability in chatframe
+	L[" "] = " "
 	L["TotalPlaytimeErfolg"] = "TotalPlaytime was successfully initialised! "
 	L["Anleitung"] = "Type: '/playtime' to see your overall playtime! "
 	L["Erklaerung"] = "You'll see your playtime per character and overall. "	
-	print("english localization was loaded")  -- debug message
+	L["Die Playtime-Datenbank wurde geleert."] = "The Playtime-Database was cleared. "
+	print("english localization was loaded")
 
 return end
 
@@ -35,7 +36,7 @@ if LOCALE == "deDE" then
 	L["Stunden"] = " Stunden, " 
 	L["Minuten"] = " Minuten, " 
 	L["Sekunden"] = " Sekunden. " 
-	L[" "] = " " -- deLEERZEICHEN for better readability in chatframe 
+	L[" "] = " " 
 	L["TotalPlaytimeErfolg"] = "TotalPlaytime wurde erfolgreich gestartet! " 
 	L["Anleitung"] = "Gib: '/spielzeit' ein, um deine Gesamtspielzeit zu sehen! " 
 	L["Erklaerung"] = "Du siehst die Zeit pro Charakter und insgesamt. " 

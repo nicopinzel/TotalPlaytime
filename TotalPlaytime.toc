@@ -1,9 +1,9 @@
-## Interface: 110005, 40401, 30403, 11507
+## Interface: 110007, 50500, 40402, 11508
 ## Title: TotalPlaytime
 ## Notes: Shows your total Playtime with all of your characters (except deleted ones)
 ## Author: Nico Pinzel
-## Version: 3
-## X-Github Version: 3
+## Version: 5.4
+## X-Github Version: 5.4
 
 ## SavedVariables: PlaytimeDB
 ## IconTexture: Interface\AddOns\TotalPlaytime\Icons\Logo

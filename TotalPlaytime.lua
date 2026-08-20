@@ -97,7 +97,7 @@ local function playtimeHandler(msg, editbox)
     if msg and (msg == 'clear' or msg == 'löschen') then
         print(L["Befehl /playtime clear oder /spielzeit löschen wurde erkannt."]) -- translation fehlt
         PlaytimeDB = {}
-        print("Die Playtime-Datenbank wurde geleert.")  -- translation fehlt
+        print("Die Playtime-Datenbank wurde geleert.")
         clearingPlaytime = true
         SavePlaytime()
     else
