@@ -1,8 +1,8 @@
-## Interface: 11509,20506,38002,50504,120007, 120100
+## Interface: 11509,16001,20506,38002,50504,120007,120100
 ## Title: TotalPlaytime
 ## Notes: Shows your total Playtime with all of your characters (except deleted ones)
 ## Author: Nico Pinzel
-## Version: 5.4
+## Version: 5.5
 ## X-Github Version: 5.4
 
 ## SavedVariables: PlaytimeDB
